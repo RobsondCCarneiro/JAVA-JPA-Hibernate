@@ -37,7 +37,5 @@ public class Programa {
 		em.getTransaction().commit();
 		System.out.println("Pronto!");
 		
-
 	}
-
 }
